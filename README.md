@@ -1,4 +1,6 @@
-# ltspice
+# LTspice
+
+[![CI](https://github.com/xiongyumail/ltspice/actions/workflows/main.yml/badge.svg)](https://github.com/xiongyumail/ltspice/actions/workflows/main.yml)
 
 LTspice installed into a docker image for CI purposes.
 
